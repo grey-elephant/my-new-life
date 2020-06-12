@@ -37,13 +37,14 @@ h1 {
     border: dimgray solid 3px;
     margin: 10px;
 }
-.preview h2 {
-    line-height: 50px;
-}
 .preview  {
     font-size: 20px;
     line-height: 10px;
 }
+.preview h2 {
+    line-height: 50px;
+}
+
 p {
 line-height: 20px;
 }
