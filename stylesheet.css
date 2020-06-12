@@ -1,0 +1,100 @@
+body {
+    background-color: ghostwhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(img/marble-2362267_1920.jpg);
+}
+.main-header {
+    background-color: gainsboro;
+    border: dimgray solid 2px;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.main-header span {
+    text-decoration-line: line-through;
+}
+h1 {
+    color: darkslategray;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+ .main-header p {
+    font-size: 30px;
+    text-align: center;
+    line-height: 25px;
+    color: darkslategray;
+}
+.main-header img {
+    align: center;
+    text-align: left;
+    border-radius: 70px;
+    border: dimgray solid 3px;
+    margin: 10px;
+}
+.preview h2 {
+    line-height: 50px;
+}
+.preview  {
+    font-size: 20px;
+    line-height: 10px;
+}
+p {
+line-height: 20px;
+}
+.preview p {
+    font-size: 20px;
+    line-height: 20px;}
+.texts ul li {
+    list-style-type: square;
+    font-size: 25px;
+    line-height: 25px;
+}
+time {
+    line-height: 10px;
+}
+.preview a {
+    text-decoration: none;
+    line-height: 35px;
+}
+article {
+    color: darkslategray;
+    font-size: 20px;
+    background-color: ghostwhite;
+    border: dimgray solid 2px;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;}
+.preview span {
+    text-transform: uppercase;
+}
+.texts {
+        font-size: 25px;
+        text-align: justify;
+    }
+.texts img {
+        border: dimgray solid 3px;
+        margin: 20px;  
+    }
+.texts p {
+        line-height: 25px;
+    }
+.texts span {
+        text-transform: uppercase;
+    }
+footer {
+        font-size: 20px;
+        color: darkslategray;
+    }
+   
+     
