@@ -39,10 +39,10 @@ h1 {
 }
 .preview  {
     font-size: 20px;
-    line-height: 10px;
+    
 }
 .preview h2 {
-    line-height: 50px;
+    line-height: normal;
 }
 
 p {
