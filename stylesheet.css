@@ -42,8 +42,7 @@ h1 {
     
 }
 .preview h2 {
-    line-height: normal;
-    font-size: 25px;
+    line-height: normal; 
 }
 
 p {
@@ -83,17 +82,36 @@ article {
 .texts {
         font-size: 25px;
         text-align: justify;
-    }
+}
 .texts img {
         border: dimgray solid 3px;
         margin: 20px;  
-    }
+}
 .texts p {
         line-height: 25px;
-    }
+}
 .texts span {
         text-transform: uppercase;
-    }
+}
+.texts a {
+    text-decoration: none;
+    line-height: 35px;
+}
+.button a {
+    background-color: lightgrey;
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 35px;
+}
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+h4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
 
 footer {
         font-size: 20px;
