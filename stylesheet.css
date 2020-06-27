@@ -50,7 +50,8 @@ line-height: 20px;
 }
 .preview p {
     font-size: 20px;
-    line-height: 20px;}
+    line-height: 20px;
+}
 .texts ul li {
     list-style-type: square;
     font-size: 25px;
@@ -75,7 +76,8 @@ article {
     margin-top: 10px;
     margin-bottom: 20px;
     margin-left: 100px;
-    margin-right: 100px;}
+    margin-right: 100px;
+}
 .preview span {
     text-transform: uppercase;
 }
